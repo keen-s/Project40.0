@@ -47,6 +47,9 @@
 /*===========================
     1. Theme default css 
 ===========================*/
+/*=====================================================
+    2. Courselog Logo 
+======================================================*/
 
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Roboto:300,400,500,700');
@@ -93,6 +96,8 @@ h6 {
 	color: #1d2025;
 	margin: 0px;
 }
+
+
 
 h1 {
 	font-weight: 500;
@@ -2445,6 +2450,10 @@ p {
 .corses-singel-left{
     padding: 45px 50px;
     background-color: #fff;
+}
+.nav-item > a:hover{
+     transform: scale(1.2);
+
 }
 
 .corses-singel-left .title{}

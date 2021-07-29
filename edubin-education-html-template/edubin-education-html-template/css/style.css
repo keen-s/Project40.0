@@ -409,7 +409,7 @@ p {
 
 /*===== Header top =====*/
 
-.header-top{
+/*.header-top{
     background-color: #07294d;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -418,26 +418,26 @@ p {
 .header-contact ul{}
 .header-contact ul li{
     display: inline-block;
-    margin-right: 45px;
-}
+    margin-right: 45px;*/
+/*}
 .header-contact ul li:last-child{
     margin-right: 0;
-}
-
+}*/
+/*
 .header-contact ul li img{}
 .header-contact ul li span {
 	color: #dee2e6;
 	font-size: 15px;
 	font-weight: 400;
 	margin-left: 10px;
-}
+}*/
 
-.header-opening-time{}
+/*.header-opening-time{}
 .header-opening-time p {
 	color: #dee2e6;
 	font-size: 15px;
 	font-weight: 400;
-}
+}*/
 
 /*===== Header Logo support =====*/
 
@@ -460,7 +460,7 @@ p {
 }
 .support-button .support .icon{}
 .support-button .support .cont{
-    margin-left: 15px;
+    margin-left: 0px;
     margin-top: -2px;
 }
 .support-button .support .cont p{

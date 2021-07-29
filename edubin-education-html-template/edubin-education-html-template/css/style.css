@@ -460,7 +460,7 @@ p {
 }
 .support-button .support .icon{}
 .support-button .support .cont{
-    margin-left: 0px;
+    margin-left: 15px;
     margin-top: -2px;
 }
 .support-button .support .cont p{
@@ -525,7 +525,7 @@ p {
 
 .navigation .navbar .navbar-nav{}
 .navigation .navbar .navbar-nav li{
-    margin-right: 20px;
+    margin-right: 26px;
     position: relative;
 }
 .navigation .navbar .navbar-nav li:last-child{
@@ -535,17 +535,18 @@ p {
 .navigation .navbar .navbar-nav li a{
     font-size: 14px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+    font-weight: 700;                                
     color: #07294d;
     text-transform: uppercase;
-    -webkit-transition: all 0.4s linear;
+    -webkit-transition: all 400ms linear;
     transition: all 0.4s linear;
     padding: 25px 0;
-}
+}                                                           /*Courses Area*/
 
 .navigation .navbar .navbar-nav > li > a.active,
 .navigation .navbar .navbar-nav > li > a:hover{
     color: #ffc600;
+    transform: scale(1.2);
 }
 
 .navigation .navbar .navbar-nav li .sub-menu{
@@ -2364,7 +2365,7 @@ p {
     bottom: 0;
 }
 
-.courses-top-search{
+/*.courses-top-search{
     background-color: #fff;
     padding: 15px 30px;
     border-radius: 5px;
@@ -2411,7 +2412,7 @@ p {
     border: 0;
     background: none;
     cursor: pointer;
-}
+}*/
 
 #courses-list .singel-course .thum .price {
 	right: -25px;
@@ -2451,10 +2452,10 @@ p {
     padding: 45px 50px;
     background-color: #fff;
 }
-.nav-item > a:hover{
+/*.nav-item > a:hover{
      transform: scale(1.2);
 
-}
+}*/
 
 .corses-singel-left .title{}
 .corses-singel-left .title h3{

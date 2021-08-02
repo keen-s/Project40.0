@@ -525,7 +525,7 @@ p {
 
 .navigation .navbar .navbar-nav{}
 .navigation .navbar .navbar-nav li{
-    margin-right: 20px;
+    margin-right: 12px;
     position: relative;
 }
 .navigation .navbar .navbar-nav li:last-child{

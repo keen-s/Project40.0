@@ -1,0 +1,131 @@
+[33mcommit 344dbaaceff3c15121b44a65c3e3ffedf9270b90[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Fri Jul 30 01:06:16 2021 +0200
+
+    corrected errors on the courses
+
+[33mcommit e4b10fd7e924147eb57c588a3a6e0ad0481045f8[m
+Merge: 54d9def 3056db2
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Fri Jul 30 01:00:41 2021 +0200
+
+    ---
+
+[33mcommit 54d9def56ea9303b5f9a8b74698762f336f21177[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Fri Jul 30 00:37:38 2021 +0200
+
+    Made changes on the footer
+
+[33mcommit 3056db28afcb85f9c4408d974ace53e896d1002e[m
+Merge: 86afbac aa1642c
+Author: Owl-3 <84917593+Owl-3@users.noreply.github.com>
+Date:   Fri Jul 30 00:37:34 2021 +0200
+
+    Merge pull request #4 from keen-s/main
+    
+    Fixed the bug on the music tab
+
+[33mcommit aa1642c5891bcee87ff6210fc95514ebb4ab6c4a[m
+Author: keen-spe <keen_spe@DESKTOP-C7LRBS8.localdomain>
+Date:   Thu Jul 29 23:26:25 2021 +0200
+
+    Fixed the bug on the music tab
+
+[33mcommit 86afbacff68a786067e2a4fd105f56b1e0fba037[m
+Merge: 3cb8f11 115598b
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Thu Jul 29 15:57:03 2021 +0200
+
+    Merge branch 'main' of https://github.com/Owl-3/Project40.0 into main
+
+[33mcommit 3cb8f11afa17801275e49b5b677a7810367db4a1[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Thu Jul 29 15:56:40 2021 +0200
+
+    no changes
+
+[33mcommit 115598b438fe0a8eb0745ace68396c637066cc56[m
+Merge: 90bc914 08a7486
+Author: Owl-3 <84917593+Owl-3@users.noreply.github.com>
+Date:   Thu Jul 29 15:55:12 2021 +0200
+
+    Merge pull request #3 from keen-s/main
+    
+    Corrected the layout of finance to music
+
+[33mcommit 08a74866af9420843bee1cca8dddcc4759023bc8[m
+Author: keen-spe <keen_spe@DESKTOP-C7LRBS8.localdomain>
+Date:   Thu Jul 29 15:52:11 2021 +0200
+
+    Corrected the layout of finance to music
+
+[33mcommit 90bc914f0b6293be30976bdc95d06fd868df1958[m
+Merge: 182985a 7f819da
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Thu Jul 29 15:37:47 2021 +0200
+
+    Merge branch 'main' of https://github.com/Owl-3/Project40.0 into main
+
+[33mcommit 182985a04209e74cca6bda361d0ac0e0c88e8808[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Thu Jul 29 15:37:16 2021 +0200
+
+    no significant change
+
+[33mcommit 7f819da65806b6c377091a6b8f2c1958c9804efc[m
+Merge: 455b07d 506bdbd
+Author: Owl-3 <84917593+Owl-3@users.noreply.github.com>
+Date:   Thu Jul 29 15:34:22 2021 +0200
+
+    Merge pull request #2 from keen-s/main
+    
+    I have added the course names
+
+[33mcommit 506bdbd969fc81e1161ffcfe39c8dfb10c03736e[m
+Author: keen-spe <keen_spe@DESKTOP-C7LRBS8.localdomain>
+Date:   Thu Jul 29 15:28:53 2021 +0200
+
+    I have added the course names
+
+[33mcommit 455b07d4bc6215b90c65cdfa2e29e2288e6ee47e[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Thu Jul 29 00:27:55 2021 +0200
+
+    contact changes
+
+[33mcommit 730fab4ee9fa3979575161867e0e1bb85466ca0c[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Wed Jul 28 12:14:41 2021 +0200
+
+    few changes
+
+[33mcommit cba042be4a14d350de800c154e2b9fac6117c668[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Mon Jul 26 16:29:30 2021 +0200
+
+    Removed the map
+
+[33mcommit 0cc4a5a9b9a7cee9bd3bf2f26325a12492513c69[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Mon Jul 26 16:02:48 2021 +0200
+
+    Changed the top header
+
+[33mcommit 62adaf6b4c8e0e6abca27d54fcf6258c532802b2[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Mon Jul 26 15:33:52 2021 +0200
+
+    header_changes
+
+[33mcommit 8d9d9005225cedaad15790f3d93202c84520b9a2[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Mon Jul 26 11:24:09 2021 +0200
+
+    Project-40
+
+[33mcommit 2058a8033cb2f6c9f9738605190a79f37b1af4c7[m
+Author: Owl-3 <d.odira@alustudent.com>
+Date:   Mon Jul 26 11:10:58 2021 +0200
+
+    Project40.0

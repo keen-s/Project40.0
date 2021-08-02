@@ -409,7 +409,7 @@ p {
 
 /*===== Header top =====*/
 
-.header-top{
+/*.header-top{
     background-color: #07294d;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -418,26 +418,26 @@ p {
 .header-contact ul{}
 .header-contact ul li{
     display: inline-block;
-    margin-right: 45px;
-}
+    margin-right: 45px;*/
+/*}
 .header-contact ul li:last-child{
     margin-right: 0;
-}
-
+}*/
+/*
 .header-contact ul li img{}
 .header-contact ul li span {
 	color: #dee2e6;
 	font-size: 15px;
 	font-weight: 400;
 	margin-left: 10px;
-}
+}*/
 
-.header-opening-time{}
+/*.header-opening-time{}
 .header-opening-time p {
 	color: #dee2e6;
 	font-size: 15px;
 	font-weight: 400;
-}
+}*/
 
 /*===== Header Logo support =====*/
 
@@ -525,7 +525,11 @@ p {
 
 .navigation .navbar .navbar-nav{}
 .navigation .navbar .navbar-nav li{
-    margin-right: 12px;
+<<<<<<< HEAD
+    margin-right: 26px;
+=======
+    margin-right: 26px;
+>>>>>>> fa6f59746414d1f7c49d74edeb5305c1a78e8f8b
     position: relative;
 }
 .navigation .navbar .navbar-nav li:last-child{
@@ -535,17 +539,18 @@ p {
 .navigation .navbar .navbar-nav li a{
     font-size: 14px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+    font-weight: 700;                                
     color: #07294d;
     text-transform: uppercase;
-    -webkit-transition: all 0.4s linear;
+    -webkit-transition: all 400ms linear;
     transition: all 0.4s linear;
     padding: 25px 0;
-}
+}                                                           /*Courses Area*/
 
 .navigation .navbar .navbar-nav > li > a.active,
 .navigation .navbar .navbar-nav > li > a:hover{
     color: #ffc600;
+    transform: scale(1.2);
 }
 
 .navigation .navbar .navbar-nav li .sub-menu{
@@ -2364,7 +2369,7 @@ p {
     bottom: 0;
 }
 
-.courses-top-search{
+/*.courses-top-search{
     background-color: #fff;
     padding: 15px 30px;
     border-radius: 5px;
@@ -2411,7 +2416,7 @@ p {
     border: 0;
     background: none;
     cursor: pointer;
-}
+}*/
 
 #courses-list .singel-course .thum .price {
 	right: -25px;
@@ -2451,10 +2456,10 @@ p {
     padding: 45px 50px;
     background-color: #fff;
 }
-.nav-item > a:hover{
+/*.nav-item > a:hover{
      transform: scale(1.2);
 
-}
+}*/
 
 .corses-singel-left .title{}
 .corses-singel-left .title h3{

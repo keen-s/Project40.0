@@ -520,16 +520,12 @@ p {
 }
 
 .navigation .navbar{
-    padding: 0;
+    padding: 0px;
 }
 
 .navigation .navbar .navbar-nav{}
 .navigation .navbar .navbar-nav li{
-<<<<<<< HEAD
     margin-right: 26px;
-=======
-    margin-right: 26px;
->>>>>>> fa6f59746414d1f7c49d74edeb5305c1a78e8f8b
     position: relative;
 }
 .navigation .navbar .navbar-nav li:last-child{
